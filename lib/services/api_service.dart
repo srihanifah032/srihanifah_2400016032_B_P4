@@ -3,7 +3,7 @@ import 'package:http/http.dart' as http;
 import '../models/user_model.dart';
 
 class ApiService {
-  static const String baseUrl = 'hhttps://69ff07748c70b15fa3cafd0a.mockapi.io/api/v1/users';
+  static const String baseUrl = 'https://69ff07748c70b15fa3cafd0a.mockapi.io/api/v1';
 
   static const String endpoint = '/users';
 
